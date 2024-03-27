@@ -3,8 +3,8 @@
     flex-direction: column;
 }
 .cat{
-    width: auto;
-    margin: -8px;
+    width: 50%;
+    margin: -8px auto;
 }
 #btn{
     border: none;
